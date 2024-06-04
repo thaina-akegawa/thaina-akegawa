@@ -25,6 +25,11 @@
 - Linguística e comunicação
 - Análise de dados
 
+## Projetos:
+
+[PROJETO SPOTIFY](https://github.com/thaina-akegawa/PROJETO2)
+
+
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhydWlpdWFhMDNlanpidnpyejVrOG81Z3B6bDc0dXB4anJpemZqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SKGo6OYe24EBG/giphy.webp" alt="Fim do README" width="230" height="180">
 </div>
