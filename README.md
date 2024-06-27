@@ -28,6 +28,7 @@
 ## Projetos:
 
 [PROJETO SPOTIFY](https://github.com/thaina-akegawa/PROJETO2)
+[PROJETO SUPER CAJA](https://github.com/thaina-akegawa/PROJETO-3/blob/thaina-akegawa/PROJETO3.pdf)
 
 
 <div align="center">
