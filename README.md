@@ -30,8 +30,9 @@
 [PROJETO SPOTIFY](https://github.com/thaina-akegawa/PROJETO2)
 
 
-[PROJETO SUPER CAJA](https://github.com/thaina-akegawa/PROJETO-3/blob/thaina-akegawa/PROJETO3.pdf)
+[PROJETO SUPER CAJA](https://github.com/thaina-akegawa/PROJETO-3)
 
+[PROJETO AMAZON SALES](https://github.com/thaina-akegawa/PROJETO4)
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhydWlpdWFhMDNlanpidnpyejVrOG81Z3B6bDc0dXB4anJpemZqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SKGo6OYe24EBG/giphy.webp" alt="Fim do README" width="230" height="180">
