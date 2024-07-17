@@ -20,7 +20,7 @@
 - Tenho uma paixão por entender e interpretar dados para contar histórias e resolver problemas complexos.
 
 ## Habilidades:
-- Python, SQL, Excel, Google Spreadsheet
+- Python, SQL, Excel, Spreadsheets
 - Visualização de dados (Tableau, Power BI, Looker Studio)
 - Linguística e comunicação
 - Análise de dados
